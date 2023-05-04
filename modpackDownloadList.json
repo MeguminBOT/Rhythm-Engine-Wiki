@@ -1,17 +1,10 @@
 [
     {
-        "link": "download.autisticlulu.com:25565/Modpacks/rnf.zip",
-        "modpack": "Retro Night Funkin",
-        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/retronightfunkin.png",
-        "author": "Julnz",
-        "fileName": "rnf.zip"
-    },
-    {
-        "link": "download.autisticlulu.com:25565/Modpacks/rnf.zip",
-        "modpack": "Hypno's Lullaby",
-        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/hypnoslullaby.png",
+        "link": "http://download.autisticlulu.com:25565/Modpacks/modpack_B-Sides.zip",
+        "modpack": "B-Sides V1",
+        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/bsides.png",
         "author": "Rhythm Engine Team",
-        "fileName": "rnf.zip"
+        "fileName": "modpack_B-Sides.zip"
     }
 ]
 
