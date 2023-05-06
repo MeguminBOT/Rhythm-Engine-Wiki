@@ -5,6 +5,13 @@
         "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/bsides.png",
         "author": "Rhythm Engine Team",
         "fileName": "modpack_B-Sides.zip"
+    },
+    {
+        "link": "http://download.autisticlulu.com:25565/Modpacks/modpack_Tricky.zip",
+        "modpack": "The Full Ass Tricky Mod",
+        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/trickyclown.png",
+        "author": "Rhythm Engine Team",
+        "fileName": "modpack_tricky.zip"
     }
 ]
 
