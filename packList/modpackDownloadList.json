@@ -16,14 +16,6 @@
         "updated": "new"
     },
     {
-        "link": "http://download.autisticlulu.com:25565/Modpacks/modpack_Sarvente%27s%20Mid-Fight%20Masses.zip",
-        "modpack": "Sarvente's Mid-Fight Masses",
-        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/sarvente.png",
-        "author": "Rhythm Engine Team",
-        "fileName": "modpack_Sarventes Mid Fight Masses.zip",
-        "updated": "new"
-    },
-    {
         "link": "http://download.autisticlulu.com:25565/Modpacks/modpack_Sky%20V1.zip",
         "modpack": "Sky V1",
         "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/sky.png",
@@ -32,11 +24,11 @@
         "updated": "new"
     },
     {
-        "link": "http://download.autisticlulu.com:25565/Modpacks/modpack_Hypno%27s%20Lullaby%20V2.zip",
-        "modpack": "Hypno's Lullaby V2",
-        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/hypnoslullaby.png",
+        "link": "http://download.autisticlulu.com:25565/Modpacks/modpack_Sarvente%27s%20Mid-Fight%20Masses.zip",
+        "modpack": "Sarvente's Mid-Fight Masses",
+        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/sarvente.png",
         "author": "Rhythm Engine Team",
-        "fileName": "modpack_Hypno's Lullaby V2.zip",
+        "fileName": "modpack_Sarvente's Mid-Fight Masses.zip",
         "updated": "new"
     }
 ]
