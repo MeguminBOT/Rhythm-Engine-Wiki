@@ -38,5 +38,13 @@
         "author": "Rhythm Engine Team",
         "fileName": "modpack_Hypno's Lullaby.zip",
         "updated": "new"
+    },
+    {
+        "link": "http://download.autisticlulu.com:25565/Modpacks/modpack_The%20Fat-Ass%20Mod.zip",
+        "modpack": "The Fat-Ass Mod",
+        "logo": "https://raw.githubusercontent.com/MeguminBOT/Rhythm-Engine-Wiki/main/packImages/fatassmod.png",
+        "author": "Rhythm Engine Team",
+        "fileName": "modpack_The Fat-Ass Mod.zip",
+        "updated": "NEW"
     }
 ]
